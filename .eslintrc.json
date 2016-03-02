@@ -1,0 +1,16 @@
+{
+  "extends": "airbnb",
+  "globals": {
+    "altspace": true,
+    "THREE": true
+  },
+  "rules": {
+    "new-cap": 0,
+    "comma-dangle": 0
+  },
+  "env": {
+    "browser": true,
+    "es6": true,
+    "commonjs": true
+  }
+}
