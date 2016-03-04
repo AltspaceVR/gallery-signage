@@ -108,7 +108,7 @@ const images = {
     },
     'artist statement' : {
       url: statements[getParameterByName('statement')],
-      pos: new THREE.Vector3(-178.4, 70.5, 10.5),
+      pos: new THREE.Vector3(-178.7, 49.6, 10.5),
       rot: new THREE.Euler(0, 3 * Math.PI / 2, 0),
       scale: new THREE.Vector3(0.66189, 0.37231, 0.018034),
     }
